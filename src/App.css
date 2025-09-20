@@ -1,0 +1,19 @@
+.row{
+  margin: 10px;
+  text-align: left;
+}
+
+input{
+  width: 100%;
+}
+
+
+.todo{
+      border: 1px solid black;
+      border-radius: 15px;
+    /* flex: auto; */
+    width: 50%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: aliceblue;
+}
